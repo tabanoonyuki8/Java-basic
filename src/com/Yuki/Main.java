@@ -5,10 +5,10 @@
             Read the name of Allah, who created you.
             
             Author : Tabanoon mim
-            Department of CSE, Institute of science & tecnology,Dhaka, Bangladesh.
+            Department of CSE, Institute of science & technology,Dhaka, Bangladesh.
 
 */
-
+//simple input out
 package com.Yuki;
 
 import java.time.LocalDate;
